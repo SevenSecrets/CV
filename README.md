@@ -1,6 +1,6 @@
 ## Freddie Smith Hughes
 
-Recent graduate of an Undergraduate degree in History who is respecialising in Software Development. Then a sentence about what you've achieved. I have been dabbling in programming and development since I was a teenager.
+Recent graduate of an Undergraduate degree in History who is respecialising in Software Development. **Then a sentence about what you've achieved.** I have been dabbling in programming and development since I was a teenager.
 
 ## Skills
 
