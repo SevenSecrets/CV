@@ -1,4 +1,4 @@
-## Your Name
+## Freddie Smith Hughes
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -30,25 +30,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Kent (September 2015 to June 2019)
 
-- Subject, any specialisms
-- Grade
+- BA History, specialising in the Early Modern period in the British Isles
+- 2.1
 - Other cool stuff
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- Introduction to Java and Introduction to C++ from City, University of London
 
 ## Experience
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 **Company Name** (start_date to end_date)   
 *Your job title*  
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 ## Hobbies
 
