@@ -1,6 +1,6 @@
 ## Freddie Smith Hughes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Recent graduate of an Undergraduate degree in History who is respecialising in Software Development. Then a sentence about what you've achieved. I have been dabbling in programming and development since I was a teenager.
 
 ## Skills
 
@@ -36,17 +36,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2.1
 - Other cool stuff
 
-#### Any other qualifications
+#### Other qualifications
 
 - Introduction to Java and Introduction to C++ from City, University of London
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevant to software development
+FullFact (April 2015 to March 2015)    
+Volunteer  
+- During the 2015 Election Campaign I maintained and set up most of the hardware in the Full Fact offices, and began work on a system to parse live subtitles on new broadcasts which was handed off upon my departure.
 
-**Company Name** (start_date to end_date)   
+**Company Name** (start_date to end_date) 
 *Your job title*  
 - Any experience relevant to software development
 
