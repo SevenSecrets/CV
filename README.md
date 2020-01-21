@@ -1,20 +1,15 @@
 ## Freddie Smith Hughes
 
-Recent graduate of an Undergraduate degree in History who is respecialising in Software Development. **Then a sentence about what you've achieved.** I have been dabbling in programming and development since I was a teenager.
+Recent graduate of an Undergraduate degree in History who is respecialising in Software Development. I have been dabbling in programming and development since I was a teenager.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
+#### Experienced Researcher
+Having studied History at university, I am experienced in research and 
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
