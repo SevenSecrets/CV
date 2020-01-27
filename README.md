@@ -30,9 +30,8 @@ Changing career tracks to Software Development has made it necessary for me to b
 
 ## Experience
 
-FullFact (April 2015 to March 2015)    
-Volunteer  
-- During the 2015 Election Campaign I maintained and set up most of the hardware in the Full Fact offices, and began work on a system written in Python to parse live subtitles on new broadcasts which was handed off upon my departure.
+#### FullFact (April 2015 to March 2015)    
+Volunteer - During the 2015 Election Campaign I maintained and set up most of the hardware in the Full Fact offices, and began work on a system written in Python to parse live subtitles on new broadcasts which was handed off upon my departure. I also helped to manually gather data from live broadcasts in order to help fact-check election coverage.
 
 
 ## Hobbies
