@@ -5,16 +5,10 @@ Recent graduate of an Undergraduate degree in History who is respecialising in S
 ## Skills
 
 #### Experienced Researcher
-Having studied History at university, I am experienced in research and 
+Having studied History at university, I am experienced in research and switching career paths into software development has helped to hone those skills for non-academic purposes as I have had to pick up new skills quickly.
 
-#### Another Skill
-
-
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Dedicated Learner
+Changing career tracks to Software Development has made it necessary for me to be able to learn quickly and practically while working. I am used to picking up skills and new technologies by building new projects with them.
 
 ## Education
 
@@ -29,7 +23,6 @@ Having studied History at university, I am experienced in research and
 
 - BA History, specialising in the Early Modern period in the British Isles
 - 2.1
-- Other cool stuff
 
 #### Other qualifications
 
@@ -44,4 +37,5 @@ Volunteer
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+#### Cybersecurity
+- I take part in CTFs (Capture the Flag) such as [PicoCTF](https://picoctf.com/) and the [GoogleCTF](https://capturetheflag.withgoogle.com/) online for fun and to help me practice cybersecurity skills, especially web security.
