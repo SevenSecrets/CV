@@ -43,6 +43,7 @@ gather data from live broadcasts in order to help fact-check election coverage.
 ### Portfolio
 
 My personal portfolio, where I have links to some of my projects which I think would be of interest to people. Built as a single page app in React.
+
 [link](freddiesmithhughes.info)
 
 ### Project Greenprint (Makers Final Project)
@@ -50,25 +51,31 @@ My personal portfolio, where I have links to some of my projects which I think w
 My final project at Makers, in which my team and I created a web app which measures and tracks the amount of carbon users
 produce through their travel. The frontend was built in React and the backend in Node and Express, using MongoDB to store
 user data. We also worked extensively with various APIs, including elements of the Google Maps API suite.
-[frontend github link](https://github.com/SevenSecrets/Project_Greenprint_Frontend) [backend github link](https://github.com/SevenSecrets/Project_Greenprint_Backend)
+
+[frontend github link](https://github.com/SevenSecrets/Project_Greenprint_Frontend) 
+
+[backend github link](https://github.com/SevenSecrets/Project_Greenprint_Backend)
 
 ### Telegram Weather App
 
 A personal project built in Ruby which uses the Telegram Bot and Climacell APIs to send the user information about the weather
 including temperature, precipitation, and UV index. The server is built in Sinatra and the app is hosted on Heroku and tested
 with Rspec.
+
 [github link](https://github.com/SevenSecrets/weather-texts)
 
 ### Game Suggestions
 
 A React app in which users can look up and create a poll out of games from IGDB (a database of games with an API), then vote
 on them in order to help a group decide on what to play together.
+
 [github link](https://github.com/SevenSecrets/game-suggestions)
 
 ### Greenprint Mobile
 
 The mobile app for Project Greenprint which I built after graduating in order to extend the project and teach myself about React
 Native and mobile app development. Uses the original Greenprint backend.
+
 [github link](https://github.com/SevenSecrets/greenprint-mobile)
 
 ## Hobbies
