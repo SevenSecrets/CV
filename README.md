@@ -19,7 +19,6 @@ picking up new skills and technologies through hands-on experience of building n
 #### Makers Academy (October 2019 to January 2020)
 
 - OOP, TDD, MVC, DDD
-- Agile
 - Languages and frameworks: Ruby, Rails, JavaScript, ReactJS, Express
 - Testing frameworks: RSpec, Jasmine, Jest, Mocha, Chai
 
@@ -29,7 +28,7 @@ picking up new skills and technologies through hands-on experience of building n
 
 #### Other qualifications
 
-- Introduction to Java and Introduction to C++ from City, University of London 2017
+- Introduction to Object-Oriented Programming and Java, and Introduction to C++ from City, University of London 2017
 
 ## Experience
 
@@ -84,7 +83,7 @@ Native and mobile app development. Uses the original Greenprint backend.
 - I enjoy game development as a hobby, which was what originally got me into programming as a teenager, beginning with Flash, and nowadays using Unity.
 
 #### Cybersecurity
-- I take part in CTFs (Capture the Flag) such as [PicoCTF](https://picoctf.com/) and the [TryHackMe](https://tryhackme.com/) online for fun and to help me practice cybersecurity skills, especially web security.
+- I take part in CTFs (Capture the Flag) such as [PicoCTF](https://picoctf.com/) and [TryHackMe](https://tryhackme.com/) online for fun and to help me practice cybersecurity skills, especially web security.
 
 #### First Aid and Community Care
 - I am First Aid trained, with a focus on mental health, as part of working with a community care and first aid collective which is focused on helping vulnerable LGBT+ people.
