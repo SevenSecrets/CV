@@ -78,7 +78,7 @@ the Trello API to display tasks to the office via a screen. I also acted as the 
 Capture the Flag and wargame competitions like PicoCTF and HackTheBox. This gives me an appreciation of cybersecurity from
 both the white- and black-hat sides, as well as practical experience with both UNIX-like system security and web app security.
 
-#### 
+#### Critical Thinking and Analysis
 - Having studied History at university, I am used to using my critical reasoning and analytical skills daily, especially to solve
 problems creatively. I am also used to having to come at problems from various viewpoints and with an open mind.
 
