@@ -1,41 +1,7 @@
 ## Freddie Smith Hughes
 
-Recent graduate of software development bootcamp Makers Academy. I have been interested in programming and
-development since I was a teenager, beginning to build games when I was 13, in addition to formal training. I’m passionate
-about using cutting-edge technology to help people in practical ways, and to constantly improve my own technical knowledge.
-
-## Skills
-
-#### Experienced Researcher
-Having studied History at university, I am experienced in research. Switching career paths into software development has meant
-utilising those skills in a new way.
-
-#### Dedicated Learner
-Changing my focus to software development has made it necessary to learn quickly and practically, on the job. I am good at
-picking up new skills and technologies through hands-on experience of building new projects.
-
-## Education
-
-#### Makers Academy (October 2019 to January 2020)
-
-- OOP, TDD, MVC, DDD
-- Languages and frameworks: Ruby, Rails, JavaScript, ReactJS, Express
-- Testing frameworks: RSpec, Jasmine, Jest, Mocha, Chai
-
-#### University of Kent (September 2015 to June 2019)
-
-- BA History 2.1, specialising in the Early Modern period in the British Isles
-
-#### Other qualifications
-
-- Introduction to Object-Oriented Programming and Java, and Introduction to C++ from City, University of London 2017
-
-## Experience
-
-#### FullFact (April 2015 to March 2015) 
-
-Volunteer - During the 2015 Election campaign I maintained and set up most of the hardware in the offices of Full Fact, the factchecking organisation. I set up a system written in Python to parse live subtitles on news broadcasts and helped manually
-gather data from live broadcasts in order to help fact-check election coverage.
+A Trained Software Developer with experience in Ruby and JavaScript, and a special interest in cybersecurity and DevOps,
+seeking a role as a Junior Developer with opportunities for growth and learning.
 
 ## Projects
 
@@ -77,13 +43,44 @@ Native and mobile app development. Uses the original Greenprint backend.
 
 [github link](https://github.com/SevenSecrets/greenprint-mobile)
 
-## Hobbies
+## Education
 
-#### Game Development
-- I enjoy game development as a hobby, which was what originally got me into programming as a teenager, beginning with Flash, and nowadays using Unity.
+#### Makers Academy (October 2019 to January 2020)
+
+- OOP, TDD, MVC, DDD
+- Languages and frameworks: Ruby, Rails, JavaScript, ReactJS, Express
+- Testing frameworks: RSpec, Jasmine, Jest, Mocha, Chai
+
+#### University of Kent (September 2015 to June 2019)
+
+- BA History 2.1, specialising in the Early Modern period in the British Isles
+
+#### Other qualifications
+
+- Introduction to Object-Oriented Programming and Java, and Introduction to C++ from City, University of London 2017
+
+## Work Experience
+
+### Waitrose & Partners - Customer Service Assistant ( October 2014 to February 2015)
+
+#### FullFact (April 2015 to May 2015) 
+
+Volunteer - During the 2015 Election campaign I maintained and set up most of the hardware in the offices of Full Fact, the factchecking organisation. I set up a system written in Python to parse live subtitles on news broadcasts and helped manually
+gather data from live broadcasts in order to help fact-check election coverage, as well as system which used a Raspberry Pi and
+the Trello API to display tasks to the office via a screen. I also acted as the technical support for the office during this time.
+
+#### JD Wetherspoon - Bar Associate (March 2018 to May 2018)
+
+## Skills and Hobbies
 
 #### Cybersecurity
-- I take part in CTFs (Capture the Flag) such as [PicoCTF](https://picoctf.com/) and [TryHackMe](https://tryhackme.com/) online for fun and to help me practice cybersecurity skills, especially web security.
+- I have a personal interest in cybersecurity and infosecurity, and spend a lot of my free time participating in online simulation
+Capture the Flag and wargame competitions like PicoCTF and HackTheBox. This gives me an appreciation of cybersecurity from
+both the white- and black-hat sides, as well as practical experience with both UNIX-like system security and web app security.
+
+#### 
+- Having studied History at university, I am used to using my critical reasoning and analytical skills daily, especially to solve
+problems creatively. I am also used to having to come at problems from various viewpoints and with an open mind.
 
 #### First Aid and Community Care
 - I am First Aid trained, with a focus on mental health, as part of working with a community care and first aid collective which is focused on helping vulnerable LGBT+ people.
